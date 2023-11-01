@@ -16,7 +16,7 @@
 - 💬 Ask me about **MERN Stack and Competitive Programming**
 
 - 📫 How to reach me **<ashishfrommohania@gmail.com>**
-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
+[![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
